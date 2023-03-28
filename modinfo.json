@@ -1,0 +1,32 @@
+{
+    "identifier": "com.pa.ivanblade.buildbar-bravo-patch",
+    "display_name": "Buildbar Bravo Patch",
+    "description": "Modifies the buildbar for better compatibility with the following mods: Legion, Second Wave, Section 17, Upgradable Turrets, Replication, Aurora Artillery, and Thorosman. Additionally, adds prototype support commanders to both MLA & Legion which have the ability to build the other factions buildings/units.",
+    "author": "Ivanblade",
+    "signature": "not yet implemented",
+    "forum": "https://forums.planetaryannihilation.com/threads/wip-server-buildbar-bravo.73593/",
+    "priority": 100,
+    "icon": "https://i.imgur.com/Zx4SF4w.png",
+    "titansOnly": true,
+	"scenes": {
+        "icon_atlas": [
+            "coui://ui/mods/com.pa.ivanblade.buildbar-bravo-patch/icon_atlas.js"
+        ]
+    },
+	"searchable": [
+	"legion",
+	"mla",
+	"combined",
+	"faction",
+	"ui"
+ ],
+    "category": [
+		"titans",
+		"units",
+		"gameplay"
+    ],
+    "context": "server",
+    "date": "2023-03-19",
+    "build": "116400",
+    "version": "1.0"
+}
